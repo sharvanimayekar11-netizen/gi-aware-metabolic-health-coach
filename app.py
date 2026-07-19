@@ -132,13 +132,13 @@ st.divider()
 # UI — INPUT FORM
 # ---------------------------------------------------------
 st.header("📝 Tell us about yourself")
-
+st.info("Please update all the values below with your own details before clicking 'Get my Plan'.The values shown are sample defaults.")
 with st.form("health_form"):
     col1, col2, col3 = st.columns(3)
 
     with col1:
         age = st.number_input("Age", min_value=15, max_value=90, value=30)
-        gender = st.selectbox("Gender", ["Male", "Female"])
+        gender = st.selectbox("Gender",["Select Gender","Male","Female"],index=0)
         weight = st.number_input("Weight (kg)", min_value=30.0, max_value=200.0, value=70.0)
 
     with col2:
@@ -148,9 +148,8 @@ with st.form("health_form"):
 
     with col3:
         activity_level = st.selectbox("Activity Level", list(ACTIVITY_MULTIPLIER.keys()))
-        diet_pref = st.selectbox("Diet Preference", ["Veg", "Non-Veg"])
-        family_history = st.selectbox("Family history of diabetes/hypertension?", ["No", "Yes"])
-
+        diet_pref = st.selectbox("Diet Preference", ["Select Diet","Veg","Non-veg"],index=0)
+        family_history = st.selectbox("Family history of diabetes/hypertension?", ["Select","No", "Yes"],index=0)
     submitted = st.form_submit_button("Get My Plan →", use_container_width=True)
 
 # ---------------------------------------------------------
