@@ -1,0 +1,36 @@
+Food_Item,Category,Meal_Type,Portion_Size,Calories,Protein_g,Carbs_g,Fats_g,Fiber_g,Glycemic_Index,GI_Category
+Vegetable Poha,Veg,Breakfast,200g,250,6,45,5,4,55,Medium
+Moong Dal Cheela,Veg,Breakfast,150g,220,12,28,6,5,45,Low
+Vegetable Upma,Veg,Breakfast,200g,260,7,42,7,4,58,Medium
+Idli with Sambar,Veg,Breakfast,3 pcs + 150ml,240,9,45,3,4,45,Low
+Masala Oats,Veg,Breakfast,200g,230,8,38,5,6,48,Low
+Boiled Egg Whites (3) + Toast,Non-Veg,Breakfast,150g,220,18,22,4,2,60,Medium
+Paneer Bhurji with Multigrain Roti,Veg,Breakfast,200g,320,16,28,15,5,50,Low
+Sprouts Salad,Veg,Breakfast,150g,180,10,24,3,6,40,Low
+Vegetable Daliya,Veg,Breakfast,200g,210,6,40,3,5,52,Medium
+Chicken Sandwich (Multigrain),Non-Veg,Breakfast,200g,310,22,30,10,4,50,Low
+Moong Dal Khichdi,Veg,Lunch,250g,320,11,52,6,6,48,Low
+Multigrain Roti (2) + Dal + Salad,Veg,Lunch,350g,480,18,68,10,9,50,Low
+Grilled Chicken Breast with Brown Rice,Non-Veg,Lunch,300g,520,38,55,9,4,58,Medium
+Rajma Chawal (brown rice),Veg,Lunch,350g,470,16,72,8,10,55,Medium
+Palak Paneer with Roti,Veg,Lunch,300g,450,18,40,22,6,48,Low
+Fish Curry with Brown Rice,Non-Veg,Lunch,300g,490,32,50,14,3,56,Medium
+Chole with Multigrain Roti,Veg,Lunch,300g,460,16,65,10,11,52,Low
+Curd Rice with Vegetables,Veg,Lunch,300g,380,10,58,8,4,62,Medium
+Egg Curry with Roti,Non-Veg,Lunch,300g,430,22,38,18,4,50,Low
+Quinoa Vegetable Pulao,Veg,Lunch,300g,400,12,60,9,7,50,Low
+White Rice with Dal Fry,Veg,Lunch,350g,460,12,78,7,4,73,High
+Grilled Paneer with Vegetable Stir-fry,Veg,Dinner,300g,380,20,22,22,6,32,Low
+Vegetable Soup with Multigrain Toast,Veg,Dinner,300g,240,9,35,5,7,45,Low
+Grilled Fish with Steamed Vegetables,Non-Veg,Dinner,300g,350,34,15,14,5,30,Low
+Dal Tadka with Roti,Veg,Dinner,300g,340,14,45,8,8,48,Low
+Chicken Stir-fry with Vegetables,Non-Veg,Dinner,300g,360,32,18,16,5,35,Low
+Mixed Vegetable Curry with Roti,Veg,Dinner,300g,320,10,42,10,8,46,Low
+Paneer Tikka with Salad,Veg,Dinner,250g,340,20,16,20,5,28,Low
+Egg Bhurji with Multigrain Roti,Non-Veg,Dinner,250g,350,20,28,17,4,50,Low
+Lentil Soup with Vegetables,Veg,Dinner,300g,260,14,36,4,9,40,Low
+Roasted Almonds,Veg,Snack,30g,175,6,6,15,3,15,Low
+Buttermilk (Spiced),Veg,Snack,250ml,60,3,6,2,0,35,Low
+Roasted Chana,Veg,Snack,50g,180,10,24,4,7,35,Low
+"Fruit Bowl (Apple, Papaya, Guava)",Veg,Snack,200g,120,2,28,0.5,5,42,Low
+Greek Yogurt with Berries,Veg,Snack,200g,150,12,18,3,3,35,Low
