@@ -17,8 +17,8 @@ st.set_page_config(page_title="Metabolic Health Coach", page_icon="⚖️", layo
 # ---------------------------------------------------------
 @st.cache_data
 def load_data():
-    food_df = pd.read_csv("data/food_db.csv")
-    exercise_df = pd.read_csv("data/exercise_db.csv")
+    food_df = pd.read_csv("food_db.csv")
+    exercise_df = pd.read_csv("exercise_db.csv")
     return food_df, exercise_df
 
 food_df, exercise_df = load_data()
